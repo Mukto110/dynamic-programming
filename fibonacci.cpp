@@ -10,6 +10,6 @@ int fibonacci(int n)
 
 int main()
 {
-    cout << fibonacci(9);
+    cout << fibonacci(4);
     return 0;
 }
